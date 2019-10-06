@@ -7,7 +7,7 @@ Hello my name is Samer allaham, a 23 years old,MIS gradutae form Albalqa univers
 ### Growth mindset
 
 Growth mindset is one of the best mind sets to utilize every bit of creativity and talent you have, and also a reminder that everyone started from some place at the begining.
-A reminder that talent alone isn't good enough wihout hard work and passion towards the thing you're trying to master or achive. 
+A reminder that talent alone isn't good enough wihout hard work and passion towards the thing you're trying to master or achieve. 
 
 
 ## 3 Main Keys to mind growth:
