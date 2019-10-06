@@ -9,7 +9,7 @@ My name is samer allaham, a 23 years old,MIS gradutae form Albalqaa university A
 Growth mindset is one of the best mind sets to utilize every bit of creativity and talent you have and also a reminder that everyone started from some place at the begining.
 A reminder that talent alone isn't good enough wihout hard work and passion towards the thing your trying to master or achive. 
 
-```markdown
+
 #3 Main Keys to mind growth
 
 ## A journey of a thousand miles begins with a single step.
@@ -20,7 +20,6 @@ A reminder that talent alone isn't good enough wihout hard work and passion towa
 **some good reading recommendations:**
 1. Man’s Search For Meaning by Victor Frankl
 2. Walden by Henry David Thoreau
-3. Thinking Fast and Slow by Daniel Kahneman
 
 [https://dariusforoux.com/22-books-that-expand-your-mind-and-change-the-way-you-live/](link) 
 
