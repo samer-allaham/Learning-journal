@@ -17,13 +17,12 @@ A reminder that talent alone isn't good enough wihout hard work and passion towa
 ### keep your head up and look for the next goal.
 
 
-_some good reading recommendations_
+**some good reading recommendations**
 1. Man’s Search For Meaning by Victor Frankl
-2.  Walden by Henry David Thoreau
+2. Walden by Henry David Thoreau
 3.Thinking Fast and Slow by Daniel Kahneman
 
-[Link](https://dariusforoux.com/22-books-that-expand-your-mind-and-change-the-way-you-live/) and ![Image](src)
-```
+[https://dariusforoux.com/22-books-that-expand-your-mind-and-change-the-way-you-live/](link) 
 
 ### Jekyll Themes
 
