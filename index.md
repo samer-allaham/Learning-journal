@@ -10,11 +10,11 @@ Growth mindset is one of the best mind sets to utilize every bit of creativity a
 A reminder that talent alone isn't good enough wihout hard work and passion towards the thing your trying to master or achive. 
 
 ```markdown
-3 Main Keys to mind growth
+#3 Main Keys to mind growth
 
-### A journey of a thousand miles begins with a single step.
-### Roll with the punches.
-### keep your head up and look for the next goal.
+## A journey of a thousand miles begins with a single step.
+## Roll with the punches.
+## keep your head up and look for the next goal.
 
 
 **some good reading recommendations:**
