@@ -1,14 +1,13 @@
-whats up
 
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/samer-allaham/learning-new-stuff/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Welcome to My page
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is samer allaham, a 23 years old,MIS gradutae form Albalqaa university And currentlly an employee at LTUC.
 
-### Markdown
+### Growth mindset
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Growth mindset is one of the best mind sets to utilize every bit of creativity and talent you have and also a reminder that everyone started from some place at the begining.
+A reminder that talent alone isn't good enough wihout hard work and passion towards the thing your trying to master or achive. 
 
 ```markdown
 Syntax highlighted code block
