@@ -12,15 +12,15 @@ A reminder that talent alone isn't good enough wihout hard work and passion towa
 ```markdown
 3 Main Keys to mind growth
 
-# A journey of a thousand miles begins with a single step.
-## Roll with the punches.
+### A journey of a thousand miles begins with a single step.
+### Roll with the punches.
 ### keep your head up and look for the next goal.
 
 
-**some good reading recommendations**
+**some good reading recommendations:**
 1. Man’s Search For Meaning by Victor Frankl
 2. Walden by Henry David Thoreau
-3.Thinking Fast and Slow by Daniel Kahneman
+3. Thinking Fast and Slow by Daniel Kahneman
 
 [https://dariusforoux.com/22-books-that-expand-your-mind-and-change-the-way-you-live/](link) 
 
