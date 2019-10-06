@@ -10,17 +10,13 @@ Growth mindset is one of the best mind sets to utilize every bit of creativity a
 A reminder that talent alone isn't good enough wihout hard work and passion towards the thing your trying to master or achive. 
 
 ```markdown
-Syntax highlighted code block
+3 Main Keys to mind growth
 
-# Header 1
-## Header 2
-### Header 3
+# A journey of a thousand miles begins with a single step.
+## Roll with the punches.
+### keep your head up and look for the next goal.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
